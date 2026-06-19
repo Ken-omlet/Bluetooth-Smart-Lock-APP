@@ -12,29 +12,54 @@ Mobile Application is a Flutter-based mobile application developed as a prototyp
 -Admin Interface
 
 ## UI
-Main Page
+
+### Main Page
+
 ![Main Page](screenshort/welcome.png)
 
-Login
+---
+
+### Login
+
 ![Login](screenshort/login.png)
 
-Register
+---
+
+### Register
+
 ![Register](screenshort/register.png)
 
-Simulation
-![Simuation](screenshort/status.png)
+---
 
-Admin dashboard
+### Simulation
+
+![Simulation](screenshort/status.png)
+
+---
+
+### Admin Dashboard
+
 ![Admin](screenshort/admindashboard.png)
 
-Database user
-![Database user](screenshort/userinfo.png)
+---
 
-Log
+### Database User
+
+![Database User](screenshort/userinfo.png)
+
+---
+
+### Log
+
 ![Log](screenshort/log.png)
 
-Add Delete
+---
+
+### Add Delete Device
+
 ![Device](screenshort/device.png)
+
+---
 
 ## Installation
 git clone https://github.com/ken34109-debug/Project.git
