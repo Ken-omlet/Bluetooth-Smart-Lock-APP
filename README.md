@@ -1,17 +1,39 @@
-# appsmartlock
+## application 
 
-A new Flutter project.
+Mobile Application is a Flutter-based mobile application developed as a prototype for a smart lock management system. The application simulates user authentication, connection monitoring, activity logging, and user management features through a mobile interface.
 
-## Getting Started
+## Features
+-Authentication
+-User Registration
+-SQLite Database Storage
+-Simulated Connect / Disconnect Status
+-Activity Log
+-SQLite Local Database Storage
+-Admin Interface
 
-This project is a starting point for a Flutter application.
+## UI
 
-A few resources to get you started if this is your first Flutter project:
+welcome
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+login
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+register
+
+status
+
+admindashboard
+
+userinfo
+
+device
+
+log
+
+
+## Installation
+git clone https://github.com/ken34109-debug/Project.git
+cd Project
+flutter pub get
+flutter run
+
+
